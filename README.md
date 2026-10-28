@@ -110,8 +110,6 @@ Screenshots of the application can be added here to demonstrate the user interfa
 
 ![Interview Analysis](screenshots/interview-analysis.png)
 
-> Replace these image paths with actual screenshots saved in the `screenshots` folder. Until you add the images, these sections will display broken image links on GitHub.
-
 ## 🔮 Future Improvements
 
 - Add search, filters, and date-range selection.
