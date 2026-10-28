@@ -278,6 +278,7 @@ flash = st.session_state.pop("flash", None)
 if flash:
     st.success(flash)
 
+
 # ---------- KPI CARDS ----------
 try:
     total, interviews, offers = load_kpis()
